@@ -8,9 +8,9 @@ android {
     defaultConfig {
         applicationId "com.maps.application"
         minSdk 21
-        targetSdk 33
-        versionCode 33
-        versionName "32.0"
+        targetSdk 32
+        versionCode 34
+        versionName "34.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
