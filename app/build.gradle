@@ -9,8 +9,8 @@ android {
         applicationId "com.maps.application"
         minSdk 21
         targetSdk 32
-        versionCode 70
-        versionName "70.0"
+        versionCode 71
+        versionName "710"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
